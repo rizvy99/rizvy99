@@ -1,10 +1,10 @@
 # Hi there 👋, I am Alrazi Hosen Rizvy
-## I am a student in CSE department and also I am a beginner level proggramer.
+## CSE Undergraduate Student at AIUB | Problem Solver & Competitive Programmer.
 ![I am a student in CSE department and also I am a beginner level proggramer.]( )
 
  
 
-Skills: C/C++/java
+Skills: AI/ML Enthusiast | C++, C#, Python, java
 
 - 🔭 I’m currently working on Student 
 - 🌱 I’m currently learning Proggraming 
