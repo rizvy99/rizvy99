@@ -1,7 +1,9 @@
 # Hi there 👋, I am Alrazi Hosen Rizvy
 ## CSE Undergraduate Student at AIUB | Problem Solver & Competitive Programmer.
-![I am a student in CSE department and also I am a beginner level proggramer.]( )
-
+I am Alrazi Hosen Rizvy, a final-year Computer Science and Engineering student passionate about problem-solving and software development.
+I have strong expertise in C++ and C#, along with additional knowledge of Python and databases. I actively participate in competitive programming contests on Codeforces, CodeChef, and AtCoder, where I continuously sharpen my algorithmic and analytical skills.
+Alongside my coding journey, I have developed a growing interest in Artificial Intelligence and Machine Learning, aiming to apply my skills to build impactful, real-world applications.
+My career goal is to become a Software Engineer/Developer and contribute to developing scalable and efficient software solutions.
  
 
 Skills: AI/ML Enthusiast | C++, C#, Python, java
