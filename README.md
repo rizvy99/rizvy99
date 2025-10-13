@@ -93,6 +93,19 @@ Skills:  AI/ML Enthusiast | C++, C#, Python, Java, Database
 </div>
 
 ###
+<div align="center">
+  
+# ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+# 🔝 Top Contributed Repo  
+![](https://github-contributor-stats.vercel.app/api?username=rizvy99&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+</div>
 
 <h1 align="center">📈 GitHub Stats</h1>
 
@@ -108,4 +121,4 @@ Skills:  AI/ML Enthusiast | C++, C#, Python, Java, Database
  
 ###
 
- 
+
