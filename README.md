@@ -12,14 +12,18 @@ I have strong expertise in C++ and C#, along with additional knowledge of Python
 Alongside my coding journey, I have developed a growing interest in Artificial Intelligence and Machine Learning, aiming to apply my skills to build impactful, real-world applications.
 My career goal is to become a Software Engineer/Developer and contribute to developing scalable and efficient software solutions.
  
-
 Skills:  AI/ML Enthusiast | C++, C#, Python, Java, Database
 
-- 🔭 I’m currently working on this page. 
+
+- 📫 How to reach me ahrizvy78@gmail.com
+- 📫 How to reach me: rizvy_99 (Instagram)
+- 📫 How to reach me: 01751404278 (WhatsApp)
 - 🔭 I’m currently working on Student 
 - 🌱 I’m currently learning Proggraming 
 - 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Beginner level coding and C++ 
+- 💬 Ask me about C++, C, C#
+- ⚡ Fun fact You might find me moody,
+      but believe me ,I am very friendly and funny😊
 
 
 ###
