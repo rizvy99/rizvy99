@@ -3,23 +3,45 @@
 </div>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rizvy99.rizvy99&"  />
 
+<!--
 # Hi there 👋, I am Alrazi Hosen Rizvy
 ## CSE Undergraduate Student at AIUB | Aspiring Software Engineer
 
- ![Banner](https://raw.githubusercontent.com/rizvy99/rizvy99/main/Banner.png)
-
+![Banner](https://raw.githubusercontent.com/rizvy99/rizvy99/main/Banner.png)
 I am a Computer Science and Engineering student at American International University Bangladesh, with a strong passion for problem-solving and software development.
 I have strong expertise in C++ and C#, along with additional knowledge of Python and databases. I actively participate in competitive programming contests on Codeforces, CodeChef, and AtCoder, where I continuously sharpen my algorithmic and analytical skills.
 Alongside my coding journey, I have developed a growing interest in Artificial Intelligence and Machine Learning, aiming to apply my skills to build impactful, real-world applications.
 My career goal is to become a Software Engineer/Developer and contribute to developing scalable and efficient software solutions.
- 
-Skills:  AI/ML Enthusiast | C++, C#, Python, Java, Database
+-->
 
+# 👋 Hi there, I’m **Alrazi Hosen Rizvy**
+### 🎓 CSE Undergraduate Student at AIUB | 💻 Aspiring Software Engineer  
 
-- 📫 How to reach me ahrizvy78@gmail.com
-- 📫 How to reach me: rizvy_99 (Instagram)
-- 📫 How to reach me: 01751404278 (WhatsApp)
-- 🔭 I’m currently working on Student 
+![Banner](https://raw.githubusercontent.com/rizvy99/rizvy99/main/Banner.png)
+
+---
+
+I am a **Computer Science and Engineering** student at **American International University-Bangladesh (AIUB)**, passionate about **problem-solving** and **software development**.  
+
+I have strong expertise in **C++** and **C#**, along with working knowledge of **Python** and **Databases**.  
+I actively participate in competitive programming contests on **Codeforces**, **CodeChef**, and **AtCoder**, where I continuously sharpen my algorithmic and analytical skills.  
+
+Currently, I’m exploring the world of **Artificial Intelligence (AI)** and **Machine Learning (ML)** to build impactful real-world applications.  
+My long-term goal is to become a **Software Engineer/Developer** and contribute to developing **scalable and efficient software solutions**.
+
+---
+### 🧠 Skills & Interests
+`C++` • `C#` • `Python` • `C` • `SQL Database`  
+💡 AI/ML Enthusiast | 🧩 Problem Solver | 🧠 Lifelong Learner
+
+---
+### 📫 How to reach me
+- 📧 **Email:** [ahrizy78@gmail.com](mailto:ahrizy78@gmail.com)  
+- 📸 **Instagram:** [rizvy_99](https://www.instagram.com/rizvy_99)  
+- 💬 **WhatsApp:** +8801751404278  
+- 💼 **LinkedIn:** *https://www.linkedin.com/in/alrazi-hosen-rizvy-304820292/*  
+- 🌐 **Portfolio:** *Not available yet*  
+---
 - 🌱 I’m currently learning Proggraming 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about C++, C, C#
