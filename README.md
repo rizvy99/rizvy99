@@ -173,6 +173,22 @@ My long-term goal is to become a **Software Engineer/Developer** and contribute 
 - **Score:** 42 / 105 points
 - **Description:** Tackled challenging algorithmic problems and improved competitive programming skills.
 - **Date:** October 2025
-- **Organizer:** Meta
-- **Screenshot:**  
+- **Organizer:** Meta 
 ![Meta Hacker Cup 2025](./Screenshot%202025-10-20%20220250.png)
+
+## 🏆 Certifications
+
+### HackerRank Problem Solving Certificates
+
+#### 1️⃣ Problem Solving (Basic)
+- **Platform:** HackerRank
+- **Certificate:** Problem Solving (Basic)
+- **Description:** Verified foundational problem-solving and algorithmic skills.
+![HackerRank Problem Solving (Basic)](./HackerRank%20problem%20solving%20(Basic)%20certificate.png)
+
+#### 2️⃣ Problem Solving (Intermediate)
+- **Platform:** HackerRank
+- **Certificate:** Problem Solving (Intermediate)
+- **Description:** Verified intermediate-level problem-solving and algorithmic skills.
+![HackerRank Problem Solving (Intermediate)](./HackerRank%20problem%20solving%20(Intermediate)%20certificate.png)
+
