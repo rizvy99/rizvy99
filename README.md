@@ -166,3 +166,13 @@ My long-term goal is to become a **Software Engineer/Developer** and contribute 
 ###
 
 
+## 🏆 Achievements & Competitions
+
+### Meta Hacker Cup 2025 — Round 1
+- **Rank:** 4,346 / 13,779 (Human Track)
+- **Score:** 42 / 105 points
+- **Description:** Tackled challenging algorithmic problems and improved competitive programming skills.
+- **Date:** October 2025
+- **Organizer:** Meta
+- **Screenshot:**  
+![Meta Hacker Cup 2025](./Screenshot%202025-10-20%20220250.png)
