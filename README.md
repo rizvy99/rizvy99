@@ -103,68 +103,81 @@ My long-term goal is to become a **Software Engineer/Developer** and contribute 
 
 ###
 
-
 <h1 align="center">🌐 Connect with Me</h1>
 
-###
-
 <div align="center">
+
   <a href="https://www.linkedin.com/in/alrazi-hosen-rizvy-304820292/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="39" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="40"/>
   </a>
-  <a href="ahrizvy78@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="39" alt="gmail logo"  />
+
+  <a href="mailto:ahrizvy78@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="40"/>
   </a>
+
   <a href="https://www.facebook.com/alrazi.hosen.rizvy/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="39" alt="facebook logo"  />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="40"/>
   </a>
-  <a href="rizvy_99" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="39" alt="instagram logo"  />
+
+  <a href="https://www.instagram.com/rizvy_99/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="40"/>
   </a>
-  <a href="01751404278" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="39" alt="whatsapp logo"  />
+
+  <a href="https://wa.me/8801751404278" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="40"/>
   </a>
+
 </div>
 
-###
+---
 
 <h1 align="center">🏆 GitHub Trophies</h1>
 
-###
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=rizvy99&theme=dracula&column=-1&row=41&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=rizvy99&theme=dracula&column=4&margin-w=10&margin-h=10" />
 </div>
 
-###
+---
+
+<h1 align="center">✍️ Random Dev Quote</h1>
+
 <div align="center">
-  
-# ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-# 🔝 Top Contributed Repo  
-![](https://github-contributor-stats.vercel.app/api?username=rizvy99&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light" />
 </div>
+
+---
+
+<h1 align="center">🔝 Top Contributed Repo</h1>
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=rizvy99&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</div>
+
+---
 
 <h1 align="center">📈 GitHub Stats</h1>
 
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizvy99&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rizvy99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=rizvy99&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rizvy99&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rizvy99&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizvy99&layout=compact&theme=dracula"/>
+
 </div>
 
- 
-###
+<br>
 
+<div align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=rizvy99&theme=dracula"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rizvy99&theme=react-dark&area=true"/>
+</div>
+
+###
 
  
 
